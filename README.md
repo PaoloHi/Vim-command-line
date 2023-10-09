@@ -4,3 +4,5 @@
 
 yiw 
 *copia una sola palabra 
+db para borrar una palabra hacia atras 
+
